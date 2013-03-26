@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Blog]]></title>
+  <link href="http://andreyderyabin.com/atom.xml" rel="self"/>
+  <link href="http://andreyderyabin.com/"/>
+  <updated>2013-03-26T17:55:56+04:00</updated>
+  <id>http://andreyderyabin.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
