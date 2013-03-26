@@ -4,10 +4,10 @@
   <title><![CDATA[My Blog]]></title>
   <link href="http://andreyderyabin.com/atom.xml" rel="self"/>
   <link href="http://andreyderyabin.com/"/>
-  <updated>2013-03-26T18:08:20+04:00</updated>
+  <updated>2013-03-26T18:44:00+04:00</updated>
   <id>http://andreyderyabin.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Andrey Deryabin]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
