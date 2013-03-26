@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require 'sass-globbing'
 
 # Require any additional compass plugins here.
