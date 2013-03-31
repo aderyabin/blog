@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Blog]]></title>
+  <title><![CDATA[Andrey Deryabin]]></title>
   <link href="http://andreyderyabin.com/atom.xml" rel="self"/>
   <link href="http://andreyderyabin.com/"/>
-  <updated>2013-03-26T18:44:00+04:00</updated>
+  <updated>2013-03-31T15:38:40+04:00</updated>
   <id>http://andreyderyabin.com/</id>
   <author>
     <name><![CDATA[Andrey Deryabin]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction]]></title>
+    <link href="http://andreyderyabin.com/blog/2013/03/31/introduction/"/>
+    <updated>2013-03-31T12:40:00+04:00</updated>
+    <id>http://andreyderyabin.com/blog/2013/03/31/introduction</id>
+    <content type="html"><![CDATA[<p>Hello, cruel world.</p>
+
+<p>My name is Andrey and this is by first post.
+That is my first experience in blogging and writing texts in English. Before writing first post I tried to find some answers for common questions of beginner bloggers.</p>
+
+<h3>What&#8217;s this blog about?</h3>
+
+<p>Well, That is my space to write about some issues that interested me. Also I would like to use blog to share my observations and results.</p>
+
+<h3>What I would like to receive from blog?</h3>
+
+<p>It&#8217;s very easy. I want to increase skills in English and text writing. I guess that appearance (text, speech or presentation) helps to clearly enunciate and understand idea I would like to perform. Also, it helps to receive best feedback and suggestion.</p>
+
+<p>If you find that my blog is interested for you it will be great too.</p>
+
+<p>So, welcome to my blog.</p>
+]]></content>
+  </entry>
   
 </feed>
